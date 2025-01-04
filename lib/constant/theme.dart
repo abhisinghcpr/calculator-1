@@ -14,3 +14,4 @@ class AppTheme {
     scaffoldBackgroundColor: Color(0xFFFAF6F0),
   );
 }
+

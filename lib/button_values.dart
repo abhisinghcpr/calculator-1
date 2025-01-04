@@ -39,7 +39,7 @@ extension Lay1Prop on ButtonArea1 {
         return Color(0XFFFCBB3D).withOpacity(0.58);
       case ButtonArea1.dot:
       case ButtonArea1.notation:
-        return Color(0XFFF4DFC8); // Add color for dot and notation cases
+        return Color(0XFFF4DFC8);
 
       default:
         return Color(0XFFF4DFC8);
